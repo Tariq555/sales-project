@@ -1,6 +1,7 @@
 {
   "name": "sales-project",
   "version": "0.1.0",
+  "description": "A minimal Next.js + TypeScript app to show sales around you",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
